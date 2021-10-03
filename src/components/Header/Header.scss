@@ -1,0 +1,23 @@
+.header {
+  position: fixed;
+  top: 0px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  background-color: #20232a;
+  padding: 20px;
+  color: white;
+  z-index: 2;
+
+  h1 {
+    margin-bottom: 0px;
+    color: white;
+  }
+}
+
+.icon {
+  background-image: url(./../../assets/icon.svg);
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 28px;
+}
