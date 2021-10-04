@@ -1,7 +1,7 @@
 import React from "react";
 import FusionCharts from "fusioncharts";
 import Maps from "fusioncharts/fusioncharts.maps";
-import India from "fusioncharts/maps/fusioncharts.india";
+import India from "fusionmaps/maps/fusioncharts.india.js";
 import ReactFC from "react-fusioncharts";
 import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
 import "./Map.scss";
