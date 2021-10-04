@@ -6,11 +6,11 @@ to run build locally
 `npm run build`
 for production deployment
 
-## Technology:
-React + Redux
-Babel for transpiling
-Webpack for bundling
-Ant Design as UI library
+## Technology:<br />
+React + Redux<br />
+Babel for transpiling<br />
+Webpack for bundling<br />
+Ant Design as UI library<br />
 
 Responsive page
 
