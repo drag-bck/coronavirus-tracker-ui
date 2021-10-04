@@ -15,11 +15,11 @@ Responsive page
 Map used to present data
 
 
-Mobile
+Mobile<br />
 ![Mobile](https://raw.githubusercontent.com/drag-bck/coronavirus-tracker-ui/master/s3.png)
 
-Desktop
+Desktop<br />
 ![DEsktop](https://raw.githubusercontent.com/drag-bck/coronavirus-tracker-ui/master/s2.png)
 
-Lighthouse PWA report
+Lighthouse PWA report<br />
 ![Lighthouse PWA report](https://raw.githubusercontent.com/drag-bck/coronavirus-tracker-ui/master/s1.png)
