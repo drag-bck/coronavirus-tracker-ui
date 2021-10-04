@@ -2,6 +2,9 @@
 
 ### Live URL: https://zealous-montalcini-37b996.netlify.app/ <br />
 
+`npm install`
+install dependencies
+
 `npm start`
 to run build locally
 
